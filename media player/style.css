@@ -1,0 +1,16 @@
+body{
+    display: grid;
+    
+    height: 100%;
+    background-color: #000000;
+}
+.media{
+    height: 100%;
+
+    display: grid;
+    border: solid #fff;
+    place-self: center;
+}
+video{
+    place-self: center;
+}
